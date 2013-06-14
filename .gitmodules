@@ -1,3 +1,3 @@
 [submodule "pages"]
 	path = pages
-	url = https://github.com/square/SocketRocket.git
+	url = https://github.com/ionicmobile/SocketRocket.git
